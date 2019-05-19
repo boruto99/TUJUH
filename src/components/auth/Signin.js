@@ -52,5 +52,5 @@ class Signin extends Component {
 export default Signin;
 
 
-// email: 'qqd8jw5zrj6y@10minut.xyz',
-// pass: 'a'
+// email: 'r@rdua.com',
+// pass: '12345'
