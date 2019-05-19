@@ -6,7 +6,7 @@
 //     const Cosmic = require('cosmicjs')
 //     const api = Cosmic()
 //     const bucket = api.bucket({
-//         slug: 'bucket-slug',
+//         slug: '11676c70-7a4a-11e9-b8bd-752d4336e1c4',
 //         write_key: 'ZP9DDrvfj20GsUnj2jbLjjZM0d0eizceDfYyiGTL9rvQ5TMlkX'
 //       })
 //       bucket.editObjectType({
