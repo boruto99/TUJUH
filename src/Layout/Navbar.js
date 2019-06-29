@@ -9,7 +9,7 @@ render(){
  <div className="wrap-to-border">
         <div className="navbar-wrap">
         <div className="left-side">
-            <h1 className="logo"><Link to="/">Iko Blog</Link></h1>
+            <h1 className="logo"><Link to="/">IDPENA</Link></h1>
         </div>
         <div className="right-side">
             <div className="search-wrap">
